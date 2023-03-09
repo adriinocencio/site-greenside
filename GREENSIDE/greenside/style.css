@@ -1,0 +1,37 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    margin-bottom: 25px;
+}
+
+
+nav {
+    display: flex;
+}
+
+input {
+    font-size: 10px;
+}
+
+.formInput {
+    flex-direction: column;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.btn {
+    padding: 10px;
+    max-width: fit-content;
+    background-color: greenyellow;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
